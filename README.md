@@ -7,6 +7,9 @@ When cleaning and preparing these datasets I answered:
 3.  What is the time resolution? I am using 31-day interval.
 4.  How does the cluster structure change with time? 
 
+Then to use Topological Mode analysis tool (ToMATo Clustering). I created a time series from the persistence of clusters.
+
+
 Part 2: Weather factors that influence wolf den and wolf reproductive movement
 When cleaning and preparing the data I answered:
 1. How many years do you have in the study? 17 years
